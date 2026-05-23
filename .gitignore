@@ -3,6 +3,3 @@ dist
 *.log
 .DS_Store
 .idea
-
-# Documents internes à l'évaluateur — NE PAS versionner
-EVALUATION.md
